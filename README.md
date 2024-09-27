@@ -65,12 +65,44 @@ Clear Background: Use a plain background to avoid distractions and improve gestu
 
 Practice: Spend some time practicing with the application to get comfortable with its features and ensure smooth communication. 
 
- 
- 
 
-By following these steps, anyone can use GestureVoice to bridge the communication gap and make their presentations or conversations more inclusive and effective. 
+
 ## Technologies used
-List out tech stacks you have used
+1. Programming Languages 
+
+Python: The primary language used for its extensive libraries and frameworks in machine learning and computer vision. 
+
+2. Deep Learning Frameworks 
+
+TensorFlow: An open-source library for machine learning and deep learning, used to build and train the gesture recognition model. 
+
+Keras: An API built on top of TensorFlow, making it easier to construct and train neural networks. 
+
+PyTorch: Another powerful deep learning framework known for its flexibility and ease of use, which can also be used for model development. 
+
+3. Computer Vision Libraries 
+
+OpenCV: Used for real-time computer vision tasks such as capturing video from a webcam and processing images. 
+
+MediaPipe: A framework for building multimodal applied machine learning pipelines, particularly useful for extracting keypoints from hand, face, and body movements1. 
+
+4. Model Architectures 
+
+Convolutional Neural Networks (CNNs): Used for extracting spatial features from images. 
+
+Long Short-Term Memory (LSTM): A type of recurrent neural network (RNN) used for handling sequential data and capturing temporal dependencies2. 
+
+Gated Recurrent Units (GRUs): Another type of RNN similar to LSTMs but with a simpler architecture3. 
+
+5. APIs and Services 
+
+Text-to-Speech APIs: Services like Google Cloud Text-to-Speech or Azure Cognitive Services for converting text to audio output4. 
+
+6. Development Tools 
+
+Jupyter Notebooks: For interactive development and experimentation with machine learning models. 
+
+Integrated Development Environments (IDEs): Such as PyCharm or Visual Studio Code for writing and debugging code. 
 
 ## Other Links
 Provide any other links ( for eg. Wireframe , UI, Abstract, Presentation )
