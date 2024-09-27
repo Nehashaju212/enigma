@@ -15,19 +15,19 @@ Tell us about your project here
 ## How it Works ?
 JUST A VOICE is a sign language interpreter that bridges the communication gap between mute and non-mute individuals by translating sign language into spoken words. Here’s a step-by-step overview of how it works: 
 
-1. Data Collection 
+#1. Data Collection 
 
 Video Capture: The system captures real-time video input using a webcam. 
 
 Keypoint Detection: MediaPipe is used to detect and extract keypoints from the hands, face, and body in each frame of the video. 
 
-2. Preprocessing 
+#2. Preprocessing 
 
 Normalization: The extracted keypoints are normalized to ensure consistency across different videos. 
 
 Feature Extraction: Keypoints are flattened and prepared for input into the machine learning model. 
 
-3. Model Training 
+#3. Model Training 
 
 Model Architecture: A combination of Convolutional Neural Networks (CNNs) and Long Short-Term Memory (LSTM) networks is used to handle the spatial and temporal aspects of sign language. 
 
