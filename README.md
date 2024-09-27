@@ -1,13 +1,13 @@
 ![image](IMG-20240925-WA0030.jpg)
 
-# {Project Name} - BUILDATHON
+# JUST A VOICE - BUILDATHON
 Tell us about your project here
 
 ## Team Members
-[1.Team Member 1](enter_github_id_here)   
-[2.Team Member 2](enter_github_id_here)   
-[3.Team Member 3](enter_github_id_here)   
-[4.Team Member 4](enter_github_id_here)   
+1.NEHA SHAJU (Nehashaju212)   
+2.SREELAKSHMI UV ()   
+3.PRANAV BABU ()   
+4.NIRMAL JOHN ()   
 
 ## Link to Project
 [Embed the live link of project](live_link)
