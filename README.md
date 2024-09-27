@@ -62,14 +62,17 @@ OpenCV: Used for real-time computer vision tasks such as capturing video from a 
 MediaPipe: A framework for building multimodal applied machine learning pipelines, particularly useful for extracting keypoints from hand, face, and body movements1. 
 
 4. Model Architectures 
+
 Convolutional Neural Networks (CNNs): Used for extracting spatial features from images. 
 Long Short-Term Memory (LSTM): A type of recurrent neural network (RNN) used for handling sequential data and capturing temporal dependencies2. 
 Gated Recurrent Units (GRUs): Another type of RNN similar to LSTMs but with a simpler architecture3. 
 
-5. APIs and Services 
+5. APIs and Services
+   
 Text-to-Speech APIs: Services like Google Cloud Text-to-Speech or Azure Cognitive Services for converting text to audio output4. 
 
-6. Development Tools 
+6. Development Tools
+
 Google collab: For interactive development and experimentation with machine learning models. 
 Integrated Development Environments (IDEs): Such as PyCharm or Visual Studio Code for writing and debugging code. 
 
