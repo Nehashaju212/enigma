@@ -10,7 +10,7 @@ Tell us about your project here
 4.NIRMAL JOHN ()   
 
 ## Link to Project
-[Embed the live link of project](live_link)
+[Embed the live link of project]([live_link](https://colab.research.google.com/drive/1jtji59fcBLxb1_fYPKmLNwVx7DEXYNF-?usp=sharingColab))
 
 ## How it Works ?  
 JUST A VOICE is an innovative application designed to translate sign language into spoken words, making communication easier between mute and non-mute individuals. Here’s how you can use it: 
