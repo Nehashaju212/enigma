@@ -1,16 +1,17 @@
 ![image](IMG-20240925-WA0030.jpg)
 
 # JUST A VOICE - BUILDATHON
-Tell us about your project here
+
+JUST A VOICE is an innovative application designed to break down communication barriers between mute and non-mute individuals. The app translates sign language into spoken words in real time, allowing seamless communication without the need for an interpreter. By using advanced machine learning algorithms, JUST A VOICE captures gestures through a webcam, processes them into text, and then converts the text into speech using a text-to-speech engine. This solution empowers individuals with speech disabilities to participate in conversations, presentations, and other daily interactions with ease, enhancing accessibility and inclusion in both personal and professional settings
 
 ## Team Members
 1.NEHA SHAJU (Nehashaju212)   
-2.SREELAKSHMI UV ()   
+2.SREELAKSHMI UV (SREELAKSHMIIUV)   
 3.PRANAV BABU ()   
-4.NIRMAL JOHN ()   
+4.NIRMAL JOHN (nirmaljohn2004)   
 
 ## Link to Project
-[Embed the live link of project]([live_link](https://colab.research.google.com/drive/1jtji59fcBLxb1_fYPKmLNwVx7DEXYNF-?usp=sharingColab))
+https://colab.research.google.com/drive/1jtji59fcBLxb1_fYPKmLNwVx7DEXYNF-?usp=sharing
 
 ## How it Works ?  
 JUST A VOICE is an innovative application designed to translate sign language into spoken words, making communication easier between mute and non-mute individuals. Here’s how you can use it: 
