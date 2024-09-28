@@ -7,7 +7,7 @@ JUST A VOICE is an innovative application designed to break down communication b
 ## Team Members
 1.NEHA SHAJU (Nehashaju212)   
 2.SREELAKSHMI UV (SREELAKSHMIIUV)   
-3.PRANAV BABU ()   
+3.PRANAV BABU (Pranav-Babu)   
 4.NIRMAL JOHN (nirmaljohn2004)   
 
 ## Link to Project
